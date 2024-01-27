@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MMEXAMENFINAL</string>
+    <string name="btn_text_Agregar_Medicion" >Add Measurement</string>
+</resources>
